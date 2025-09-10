@@ -70,7 +70,6 @@ int main() {
     while(1) {
         printf("\nEnter the Element to Search: ");
         scanf("%d", &x);
-
         printf("1. Linear Search \n");
         printf("2. Binary Search \n");
         printf("3. Exit\n");
